@@ -23,8 +23,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=krishalstha.krishalstha" />
+  <img src="https://komarev.com/ghpvc/?username=krishalstha&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
+
 
 ###
 
