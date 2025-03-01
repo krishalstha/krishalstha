@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer passionate about building scalable and efficient web applications.<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I'm currently learning Dotnet<br></p>
+<p align="left">I'm a Full Stack Developer passionate about building scalable and efficient web applications.<br><br>- 📚 I'm currently learning Dotnet<br></p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="ruby logo"  />
@@ -63,6 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="circleci logo"  />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+ <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40" alt="CSS logo" />
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="40" alt="DotNet logo" />
+<img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" height="40" alt="TypeScript logo" />
 </div>
 
 ###
@@ -73,6 +76,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=krishalstha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishalstha&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
 </div>
 
 
