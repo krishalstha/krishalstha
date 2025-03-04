@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=krishalstha&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krishalstha&theme=dark" />
 
 </div>
 <div align="center">
